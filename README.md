@@ -1,4 +1,4 @@
-oppo R9S ROM with virtualcam 
-without fastboot 
-(* like RTOS _-..
+#oppo R9S ROM & virtualcam 
+     ❗ no fastboot 
+# 📄  (* like RTOS _-..
 
