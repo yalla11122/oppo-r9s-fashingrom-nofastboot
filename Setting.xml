@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Setting>
+  <BasicInfo Project="15103" Version="Unknown Version" TotalSectors="30777344"
+         GrowLastPartToFillDisk="true" LogEnable="false"
+         LogPositionIndex="-1" DelayStartTime="0" UseGPT="true"
+         CheckImage="false" NeedUsbDownload="true"
+         BackupPart="false" BackupPartId="" ChipType="1" />
+  <!-- ChipType: 0=A-Family Chip, 1=B-Family Chip -->
+  
+  <SAHARA>
+    <File Id="13" Path="prog_emmc_firehose_8953_ddr.mbn" />
+  </SAHARA>
+  <CDT>
+    <File Name="rawprogram2.xml" Path="rawprogram2.xml" SizeInSector="0" FileOffset="0" />
+  </CDT>
+  <Program0>
+    <File Name="rawprogram0.xml" Path="rawprogram0.xml" SizeInSector="0" FileOffset="0" />
+  </Program0>
+  <Patch0>
+    <File Name="patch0.xml" Path="patch0.xml" SizeInSector="0" FileOffset="0" />
+  </Patch0>
+  <Patch2>
+    <File Name="patch2.xml" Path="patch2.xml" SizeInSector="0" FileOffset="0" />
+  </Patch2>
+</Setting>
+
